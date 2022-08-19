@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🤖 I am an embedded system programmer and currently a student at Ecole42.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feanor1021&show_icons=true&theme=radical)
 <!--
 **Feanor1021/Feanor1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
