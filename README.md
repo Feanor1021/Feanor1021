@@ -22,5 +22,6 @@
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=feanor1021&show_icons=true&theme=tokyonight" align = "center" />
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Feanor1021&show_icons=true&theme=tokyonight" align = "center"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Feanor1021&layout=compact&show_icons=true&theme=tokyonight" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feanor1021&langs_count=5&layout=compact&hide=jupyter%20notebook&theme=tokyonight" align = "center"/>
 </p>
+
