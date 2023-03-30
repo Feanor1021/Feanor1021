@@ -4,6 +4,11 @@
 - ⌨️   Interested in Embeded systems, Digital Design, Machine Learning, Deep Learning, AI.
 - 🎓   Studying at Ecole 42, Kocaeli University as a Electronic and Communication Engineer
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/furkan-yard%C4%B1mc%C4%B1-48513a239/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedinmakbulut" />
+  </a>
+</p>
 
 <h4 align="left">Languages and Tools:</h3>
 <p align="left">
